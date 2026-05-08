@@ -24,3 +24,7 @@ Cette application Android démontre l'utilisation d'un **Service de premier plan
 3. Quittez l'application : Le chronomètre continue de tourner dans la notification.
 4. Revenez dans l'application : Le temps affiché à l'écran se synchronise automatiquement.
 5. Cliquez sur **ARRÊTER SERVICE** : Le chronomètre s'arrête et la notification disparaît.
+
+
+[Screen_recording_20260508_154552.webm](https://github.com/user-attachments/assets/cdcb9b86-9e82-40bb-948e-83f4ee392dd6)
+
